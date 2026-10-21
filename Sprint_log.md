@@ -25,14 +25,25 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date | Start Time | Category | Description | Total Minutes |
-| ---- | ---------- | :------: | ----------- | :-----------: |
-| 10/5 | 11:30      |   MTG    | Planning    |      60       |
-| 10/7 | 10:15      |    IM    | Practice    |      45       |
-| 10/7 | 11:30      |    TP    | Work day    |      60       |
-|      |            |          |             |               |
-|      |            |          |             |               |
-|      |            |          |             |               |
+| Date  | Start Time | Category | Description       | Total Minutes |
+| ----- | ---------- | :------: | ----------------- | :-----------: |
+| 10/5  | 11:30      |   MTG    | Planning          |      60       |
+| 10/6  | 1:00       |    IM    | Planning          |      60       |
+| 10/7  | 10:15      |    IM    | Practice          |      60       |
+| 10/7  | 11:30      |   MTG    | Stand-up          |      60       |
+| 10/8  | 12:00      |    IM    | Research          |      60       |
+| 10/9  | 10:15      |    IM    | Work day          |      60       |
+| 10/9  | 11:30      |    TP    | Work day          |      60       |
+| 10/10 | 1:00       |    IM    | Work day          |      60       |
+| 10/12 | 10:15      |    IM    | Work Day          |      60       |
+| 10/12 | 11:30      |   MTG    | Individual Review |      60       |
+| 10/13 | 1:00       |    IM    | Work day          |      60       |
+| 10/13 | 2:00       |    TP    | Work day          |      60       |
+| 10/14 | 10:15      |    IM    | Work day          |      60       |
+| 10/14 | 11:30      |   MTG    | Team review       |      60       |
+| 10/15 | 1:00       |    IM    | Work day          |      60       |
+| 10/16 | 10:15      |    IM    | Work day          |      60       |
+| 10/16 | 11:30      |    TP    | Work day          |      120      |
 
 _Note: Add more rows as needed._
 
@@ -40,7 +51,7 @@ _Note: Add more rows as needed._
 
 | Categroy               | Total Time (Hours:Minutes) |
 | ---------------------- | :------------------------: |
-| IM - Individual Module |                            |
-| TP - Team Project      |                            |
-| MTG - Class Meetings   |                            |
+| IM - Individual Module |             10             |
+| TP - Team Project      |             4              |
+| MTG - Class Meetings   |             4              |
 | **TOTAL**              |                            |
